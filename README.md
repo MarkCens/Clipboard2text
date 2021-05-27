@@ -32,5 +32,5 @@ User's manual<br/>
 4. 点击第四个按钮（一个交叉），你将能够退出这个小窗体。<br/>
    Click the last button (a close icon like 'X'), you can quit the widget and the program will also exit.<br/><br/>
 
-更多的介绍在于我的博客网站：https://mp.csdn.net/editor/html/117324976. 欢迎留言。<br/>
-More introduce is in my blog: https://mp.csdn.net/editor/html/117324976. Looking forward to your comments and suggestions.<br/><br/>
+更多的介绍在于我的博客网站：https://blog.csdn.net/qq_36158230/article/details/117324976. 欢迎留言。<br/>
+More introduce is in my blog: https://blog.csdn.net/qq_36158230/article/details/117324976. Looking forward to your comments and suggestions.<br/><br/>
